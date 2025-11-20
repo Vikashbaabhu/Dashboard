@@ -6,3 +6,4 @@ streamlit
 boto3
 requests
 plotly
+pycountry
